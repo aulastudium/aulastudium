@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "388"
         version   = "1.14">
-    <name>Studium</name>
+    <name>AulaStudium</name>
 
     <description>
-        Studium official app
+        AulaStudium App
     </description>
 
     <author href="http://raulrivas.es" email="raul@raulrivas.es">
