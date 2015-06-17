@@ -1,8 +1,8 @@
 {
-  "name": "Aula Studium for desktop",
+  "name": "Aula Studium",
   "main": "index.html",
   "window": {
-    "title": "Aula Studium for desktop",
+    "title": "Aula Studium",
     "icon": "icon.png",
     "toolbar": true,
     "frame": true,
@@ -12,5 +12,5 @@
     "resizable": false
   },
   "plugin": true,
-  "description": "Aula Studium for desktop"
+  "description": "Aula Studium"
 }
