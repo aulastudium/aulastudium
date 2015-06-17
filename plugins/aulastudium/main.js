@@ -17,14 +17,10 @@ define(templates, function (theme, loginForm, program) {
         },
 
         routes: [
-            ["aulastudium", "show_program", "showProgram"]
+            ["aulastudium"]
         ],
 
-        showProgram: function() {
-            var tpl = {};
-            var html = MM.tpl.render(program, tpl);
-            MM.panels.show('center', html, {title: MM.lang.s("aulastudium")});
-        }
+       
     };
 
     // Inject allways our custom theme.
