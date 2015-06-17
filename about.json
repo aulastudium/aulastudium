@@ -1,16 +1,16 @@
 {
-"name": "Studium App",
+"name": "Aula Studium App",
 "license": {
     "name": "Apache 2.0",
     "link": "http://www.apache.org/licenses/LICENSE-2.0"
 },
 "credits": [
 {
-    "fullname": "Raul Rivas",
-    "contribution": "Main developer"
+    "fullname": "Javier Sánchez",
+    "contribution": "Developer"
 },
 {
-    "fullname": "nombre completo",
+    "fullname": "Raúl Rivas",
     "contribution": "Developer"
 }
 ],
