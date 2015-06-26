@@ -7,7 +7,7 @@ var templates = [
 define(templates, function (theme, loginForm, program) {
     var plugin = {
         settings: {
-            name: "aulastudium",
+            name: "aulastudium2",
             type: "general",
             menuURL: "#aulastudium",
             icon: "plugins/events/icon.png",
