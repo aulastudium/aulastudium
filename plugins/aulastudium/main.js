@@ -7,7 +7,7 @@ var templates = [
 define(templates, function (theme, loginForm, program) {
     var plugin = {
         settings: {
-            name: "aulastudium2",
+            name: "aulastudium2", // renombrado a aulastudium2 para que no aparezaca en menu, original aulastudium
             type: "general",
             menuURL: "#aulastudium",
             icon: "plugins/events/icon.png",
@@ -23,7 +23,7 @@ define(templates, function (theme, loginForm, program) {
         showProgram: function() {
             var tpl = {};
             var html = MM.tpl.render(program, tpl);
-           // MM.panels.show('center', html, {title: MM.lang.s("aulastudium")});
+           // MM.panels.show('center', html, {title: MM.lang.s("aulastudium")}); // comentada para que no aparezca en el menu
         }
     };
 
